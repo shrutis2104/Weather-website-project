@@ -1,0 +1,6 @@
+# Ignore PyCharm project files
+*.iml
+.idea/
+workspace.xml
+vcs.xml
+modules.xml
